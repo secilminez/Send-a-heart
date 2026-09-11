@@ -8,7 +8,7 @@ A simple, single-file browser game: click the button to send a heart to the char
 - As the level rises, her smile grows and her message changes
 
 ## Run locally
-No setup needed — just open `index.html` in your browser.
+No setup needed just open `index.html` in your browser.
 
 ## Upload to GitHub (no Git install needed)
 1. Go to github.com and create a new repository (e.g. `send-a-heart`)
