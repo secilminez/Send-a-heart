@@ -1,5 +1,7 @@
 # Send a Heart 💌
 
+(https://secilminez.github.io/Send-a-heart/) 
+
 A simple, single-file browser game: click the button to send a heart to the character, and watch her affection level and expression change as you go.
 
 ## How it works
